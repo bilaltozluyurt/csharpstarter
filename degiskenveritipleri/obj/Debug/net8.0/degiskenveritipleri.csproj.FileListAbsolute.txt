@@ -1,0 +1,15 @@
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\degiskenveritipleri\bin\Debug\net8.0\degiskenveritipleri.exe
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\degiskenveritipleri\bin\Debug\net8.0\degiskenveritipleri.deps.json
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\degiskenveritipleri\bin\Debug\net8.0\degiskenveritipleri.runtimeconfig.json
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\degiskenveritipleri\bin\Debug\net8.0\degiskenveritipleri.dll
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\degiskenveritipleri\bin\Debug\net8.0\degiskenveritipleri.pdb
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\degiskenveritipleri\obj\Debug\net8.0\degiskenveritipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\degiskenveritipleri\obj\Debug\net8.0\degiskenveritipleri.AssemblyInfoInputs.cache
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\degiskenveritipleri\obj\Debug\net8.0\degiskenveritipleri.AssemblyInfo.cs
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\degiskenveritipleri\obj\Debug\net8.0\degiskenveritipleri.csproj.CoreCompileInputs.cache
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\degiskenveritipleri\obj\Debug\net8.0\degiskenveritipleri.sourcelink.json
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\degiskenveritipleri\obj\Debug\net8.0\degiskenveritipleri.dll
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\degiskenveritipleri\obj\Debug\net8.0\refint\degiskenveritipleri.dll
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\degiskenveritipleri\obj\Debug\net8.0\degiskenveritipleri.pdb
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\degiskenveritipleri\obj\Debug\net8.0\degiskenveritipleri.genruntimeconfig.cache
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\degiskenveritipleri\obj\Debug\net8.0\ref\degiskenveritipleri.dll
