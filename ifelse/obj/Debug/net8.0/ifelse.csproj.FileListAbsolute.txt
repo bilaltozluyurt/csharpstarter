@@ -1,0 +1,15 @@
+C:\Users\bfurk\kodluyoruz\ifelse\bin\Debug\net8.0\ifelse.exe
+C:\Users\bfurk\kodluyoruz\ifelse\bin\Debug\net8.0\ifelse.deps.json
+C:\Users\bfurk\kodluyoruz\ifelse\bin\Debug\net8.0\ifelse.runtimeconfig.json
+C:\Users\bfurk\kodluyoruz\ifelse\bin\Debug\net8.0\ifelse.dll
+C:\Users\bfurk\kodluyoruz\ifelse\bin\Debug\net8.0\ifelse.pdb
+C:\Users\bfurk\kodluyoruz\ifelse\obj\Debug\net8.0\ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bfurk\kodluyoruz\ifelse\obj\Debug\net8.0\ifelse.AssemblyInfoInputs.cache
+C:\Users\bfurk\kodluyoruz\ifelse\obj\Debug\net8.0\ifelse.AssemblyInfo.cs
+C:\Users\bfurk\kodluyoruz\ifelse\obj\Debug\net8.0\ifelse.csproj.CoreCompileInputs.cache
+C:\Users\bfurk\kodluyoruz\ifelse\obj\Debug\net8.0\ifelse.sourcelink.json
+C:\Users\bfurk\kodluyoruz\ifelse\obj\Debug\net8.0\ifelse.dll
+C:\Users\bfurk\kodluyoruz\ifelse\obj\Debug\net8.0\refint\ifelse.dll
+C:\Users\bfurk\kodluyoruz\ifelse\obj\Debug\net8.0\ifelse.pdb
+C:\Users\bfurk\kodluyoruz\ifelse\obj\Debug\net8.0\ifelse.genruntimeconfig.cache
+C:\Users\bfurk\kodluyoruz\ifelse\obj\Debug\net8.0\ref\ifelse.dll
