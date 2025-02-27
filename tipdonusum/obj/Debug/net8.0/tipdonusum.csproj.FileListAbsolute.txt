@@ -1,0 +1,15 @@
+C:\Users\bfurk\kodluyoruz\tipdonusum\bin\Debug\net8.0\tipdonusum.exe
+C:\Users\bfurk\kodluyoruz\tipdonusum\bin\Debug\net8.0\tipdonusum.deps.json
+C:\Users\bfurk\kodluyoruz\tipdonusum\bin\Debug\net8.0\tipdonusum.runtimeconfig.json
+C:\Users\bfurk\kodluyoruz\tipdonusum\bin\Debug\net8.0\tipdonusum.dll
+C:\Users\bfurk\kodluyoruz\tipdonusum\bin\Debug\net8.0\tipdonusum.pdb
+C:\Users\bfurk\kodluyoruz\tipdonusum\obj\Debug\net8.0\tipdonusum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bfurk\kodluyoruz\tipdonusum\obj\Debug\net8.0\tipdonusum.AssemblyInfoInputs.cache
+C:\Users\bfurk\kodluyoruz\tipdonusum\obj\Debug\net8.0\tipdonusum.AssemblyInfo.cs
+C:\Users\bfurk\kodluyoruz\tipdonusum\obj\Debug\net8.0\tipdonusum.csproj.CoreCompileInputs.cache
+C:\Users\bfurk\kodluyoruz\tipdonusum\obj\Debug\net8.0\tipdonusum.sourcelink.json
+C:\Users\bfurk\kodluyoruz\tipdonusum\obj\Debug\net8.0\tipdonusum.dll
+C:\Users\bfurk\kodluyoruz\tipdonusum\obj\Debug\net8.0\refint\tipdonusum.dll
+C:\Users\bfurk\kodluyoruz\tipdonusum\obj\Debug\net8.0\tipdonusum.pdb
+C:\Users\bfurk\kodluyoruz\tipdonusum\obj\Debug\net8.0\tipdonusum.genruntimeconfig.cache
+C:\Users\bfurk\kodluyoruz\tipdonusum\obj\Debug\net8.0\ref\tipdonusum.dll
