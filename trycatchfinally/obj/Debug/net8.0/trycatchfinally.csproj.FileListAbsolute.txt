@@ -1,0 +1,15 @@
+C:\Users\bfurk\kodluyoruz\trycatchfinally\bin\Debug\net8.0\trycatchfinally.exe
+C:\Users\bfurk\kodluyoruz\trycatchfinally\bin\Debug\net8.0\trycatchfinally.deps.json
+C:\Users\bfurk\kodluyoruz\trycatchfinally\bin\Debug\net8.0\trycatchfinally.runtimeconfig.json
+C:\Users\bfurk\kodluyoruz\trycatchfinally\bin\Debug\net8.0\trycatchfinally.dll
+C:\Users\bfurk\kodluyoruz\trycatchfinally\bin\Debug\net8.0\trycatchfinally.pdb
+C:\Users\bfurk\kodluyoruz\trycatchfinally\obj\Debug\net8.0\trycatchfinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bfurk\kodluyoruz\trycatchfinally\obj\Debug\net8.0\trycatchfinally.AssemblyInfoInputs.cache
+C:\Users\bfurk\kodluyoruz\trycatchfinally\obj\Debug\net8.0\trycatchfinally.AssemblyInfo.cs
+C:\Users\bfurk\kodluyoruz\trycatchfinally\obj\Debug\net8.0\trycatchfinally.csproj.CoreCompileInputs.cache
+C:\Users\bfurk\kodluyoruz\trycatchfinally\obj\Debug\net8.0\trycatchfinally.sourcelink.json
+C:\Users\bfurk\kodluyoruz\trycatchfinally\obj\Debug\net8.0\trycatchfinally.dll
+C:\Users\bfurk\kodluyoruz\trycatchfinally\obj\Debug\net8.0\refint\trycatchfinally.dll
+C:\Users\bfurk\kodluyoruz\trycatchfinally\obj\Debug\net8.0\trycatchfinally.pdb
+C:\Users\bfurk\kodluyoruz\trycatchfinally\obj\Debug\net8.0\trycatchfinally.genruntimeconfig.cache
+C:\Users\bfurk\kodluyoruz\trycatchfinally\obj\Debug\net8.0\ref\trycatchfinally.dll
