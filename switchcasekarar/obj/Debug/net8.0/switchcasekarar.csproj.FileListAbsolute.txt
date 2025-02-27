@@ -1,0 +1,15 @@
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\switchcasekarar\bin\Debug\net8.0\switchcasekarar.exe
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\switchcasekarar\bin\Debug\net8.0\switchcasekarar.deps.json
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\switchcasekarar\bin\Debug\net8.0\switchcasekarar.runtimeconfig.json
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\switchcasekarar\bin\Debug\net8.0\switchcasekarar.dll
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\switchcasekarar\bin\Debug\net8.0\switchcasekarar.pdb
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\switchcasekarar\obj\Debug\net8.0\switchcasekarar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\switchcasekarar\obj\Debug\net8.0\switchcasekarar.AssemblyInfoInputs.cache
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\switchcasekarar\obj\Debug\net8.0\switchcasekarar.AssemblyInfo.cs
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\switchcasekarar\obj\Debug\net8.0\switchcasekarar.csproj.CoreCompileInputs.cache
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\switchcasekarar\obj\Debug\net8.0\switchcasekarar.sourcelink.json
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\switchcasekarar\obj\Debug\net8.0\switchcasekarar.dll
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\switchcasekarar\obj\Debug\net8.0\refint\switchcasekarar.dll
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\switchcasekarar\obj\Debug\net8.0\switchcasekarar.pdb
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\switchcasekarar\obj\Debug\net8.0\switchcasekarar.genruntimeconfig.cache
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\switchcasekarar\obj\Debug\net8.0\ref\switchcasekarar.dll
