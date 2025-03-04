@@ -1,0 +1,15 @@
+C:\Users\bfurk\kodluyoruz\whileforeach\bin\Debug\net8.0\whileforeach.exe
+C:\Users\bfurk\kodluyoruz\whileforeach\bin\Debug\net8.0\whileforeach.deps.json
+C:\Users\bfurk\kodluyoruz\whileforeach\bin\Debug\net8.0\whileforeach.runtimeconfig.json
+C:\Users\bfurk\kodluyoruz\whileforeach\bin\Debug\net8.0\whileforeach.dll
+C:\Users\bfurk\kodluyoruz\whileforeach\bin\Debug\net8.0\whileforeach.pdb
+C:\Users\bfurk\kodluyoruz\whileforeach\obj\Debug\net8.0\whileforeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bfurk\kodluyoruz\whileforeach\obj\Debug\net8.0\whileforeach.AssemblyInfoInputs.cache
+C:\Users\bfurk\kodluyoruz\whileforeach\obj\Debug\net8.0\whileforeach.AssemblyInfo.cs
+C:\Users\bfurk\kodluyoruz\whileforeach\obj\Debug\net8.0\whileforeach.csproj.CoreCompileInputs.cache
+C:\Users\bfurk\kodluyoruz\whileforeach\obj\Debug\net8.0\whileforeach.sourcelink.json
+C:\Users\bfurk\kodluyoruz\whileforeach\obj\Debug\net8.0\whileforeach.dll
+C:\Users\bfurk\kodluyoruz\whileforeach\obj\Debug\net8.0\refint\whileforeach.dll
+C:\Users\bfurk\kodluyoruz\whileforeach\obj\Debug\net8.0\whileforeach.pdb
+C:\Users\bfurk\kodluyoruz\whileforeach\obj\Debug\net8.0\whileforeach.genruntimeconfig.cache
+C:\Users\bfurk\kodluyoruz\whileforeach\obj\Debug\net8.0\ref\whileforeach.dll
