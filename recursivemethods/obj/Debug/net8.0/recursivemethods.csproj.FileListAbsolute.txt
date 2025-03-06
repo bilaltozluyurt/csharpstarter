@@ -1,0 +1,15 @@
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\recursivemethods\bin\Debug\net8.0\recursivemethods.exe
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\recursivemethods\bin\Debug\net8.0\recursivemethods.deps.json
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\recursivemethods\bin\Debug\net8.0\recursivemethods.runtimeconfig.json
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\recursivemethods\bin\Debug\net8.0\recursivemethods.dll
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\recursivemethods\bin\Debug\net8.0\recursivemethods.pdb
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\recursivemethods\obj\Debug\net8.0\recursivemethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\recursivemethods\obj\Debug\net8.0\recursivemethods.AssemblyInfoInputs.cache
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\recursivemethods\obj\Debug\net8.0\recursivemethods.AssemblyInfo.cs
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\recursivemethods\obj\Debug\net8.0\recursivemethods.csproj.CoreCompileInputs.cache
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\recursivemethods\obj\Debug\net8.0\recursivemethods.sourcelink.json
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\recursivemethods\obj\Debug\net8.0\recursivemethods.dll
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\recursivemethods\obj\Debug\net8.0\refint\recursivemethods.dll
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\recursivemethods\obj\Debug\net8.0\recursivemethods.pdb
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\recursivemethods\obj\Debug\net8.0\recursivemethods.genruntimeconfig.cache
+C:\Users\bfurk\kodluyoruz\degiskenveritipleri\recursivemethods\obj\Debug\net8.0\ref\recursivemethods.dll
