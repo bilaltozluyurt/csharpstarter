@@ -1,0 +1,15 @@
+C:\Users\bfurk\kodluyoruz\metotoverload\bin\Debug\net8.0\metotoverload.exe
+C:\Users\bfurk\kodluyoruz\metotoverload\bin\Debug\net8.0\metotoverload.deps.json
+C:\Users\bfurk\kodluyoruz\metotoverload\bin\Debug\net8.0\metotoverload.runtimeconfig.json
+C:\Users\bfurk\kodluyoruz\metotoverload\bin\Debug\net8.0\metotoverload.dll
+C:\Users\bfurk\kodluyoruz\metotoverload\bin\Debug\net8.0\metotoverload.pdb
+C:\Users\bfurk\kodluyoruz\metotoverload\obj\Debug\net8.0\metotoverload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bfurk\kodluyoruz\metotoverload\obj\Debug\net8.0\metotoverload.AssemblyInfoInputs.cache
+C:\Users\bfurk\kodluyoruz\metotoverload\obj\Debug\net8.0\metotoverload.AssemblyInfo.cs
+C:\Users\bfurk\kodluyoruz\metotoverload\obj\Debug\net8.0\metotoverload.csproj.CoreCompileInputs.cache
+C:\Users\bfurk\kodluyoruz\metotoverload\obj\Debug\net8.0\metotoverload.sourcelink.json
+C:\Users\bfurk\kodluyoruz\metotoverload\obj\Debug\net8.0\metotoverload.dll
+C:\Users\bfurk\kodluyoruz\metotoverload\obj\Debug\net8.0\refint\metotoverload.dll
+C:\Users\bfurk\kodluyoruz\metotoverload\obj\Debug\net8.0\metotoverload.pdb
+C:\Users\bfurk\kodluyoruz\metotoverload\obj\Debug\net8.0\metotoverload.genruntimeconfig.cache
+C:\Users\bfurk\kodluyoruz\metotoverload\obj\Debug\net8.0\ref\metotoverload.dll
