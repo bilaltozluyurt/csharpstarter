@@ -1,0 +1,15 @@
+C:\Users\bfurk\kodluyoruz\AlgoritmaSoruları\bin\Debug\net8.0\AlgoritmaSoru1.exe
+C:\Users\bfurk\kodluyoruz\AlgoritmaSoruları\bin\Debug\net8.0\AlgoritmaSoru1.deps.json
+C:\Users\bfurk\kodluyoruz\AlgoritmaSoruları\bin\Debug\net8.0\AlgoritmaSoru1.runtimeconfig.json
+C:\Users\bfurk\kodluyoruz\AlgoritmaSoruları\bin\Debug\net8.0\AlgoritmaSoru1.dll
+C:\Users\bfurk\kodluyoruz\AlgoritmaSoruları\bin\Debug\net8.0\AlgoritmaSoru1.pdb
+C:\Users\bfurk\kodluyoruz\AlgoritmaSoruları\obj\Debug\net8.0\AlgoritmaSoru1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bfurk\kodluyoruz\AlgoritmaSoruları\obj\Debug\net8.0\AlgoritmaSoru1.AssemblyInfoInputs.cache
+C:\Users\bfurk\kodluyoruz\AlgoritmaSoruları\obj\Debug\net8.0\AlgoritmaSoru1.AssemblyInfo.cs
+C:\Users\bfurk\kodluyoruz\AlgoritmaSoruları\obj\Debug\net8.0\AlgoritmaSoru1.csproj.CoreCompileInputs.cache
+C:\Users\bfurk\kodluyoruz\AlgoritmaSoruları\obj\Debug\net8.0\AlgoritmaSoru1.sourcelink.json
+C:\Users\bfurk\kodluyoruz\AlgoritmaSoruları\obj\Debug\net8.0\AlgoritmaSoru1.dll
+C:\Users\bfurk\kodluyoruz\AlgoritmaSoruları\obj\Debug\net8.0\refint\AlgoritmaSoru1.dll
+C:\Users\bfurk\kodluyoruz\AlgoritmaSoruları\obj\Debug\net8.0\AlgoritmaSoru1.pdb
+C:\Users\bfurk\kodluyoruz\AlgoritmaSoruları\obj\Debug\net8.0\AlgoritmaSoru1.genruntimeconfig.cache
+C:\Users\bfurk\kodluyoruz\AlgoritmaSoruları\obj\Debug\net8.0\ref\AlgoritmaSoru1.dll

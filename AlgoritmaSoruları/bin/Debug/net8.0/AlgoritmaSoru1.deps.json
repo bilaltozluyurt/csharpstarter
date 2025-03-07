@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AlgoritmaSoru1/1.0.0": {
+        "runtime": {
+          "AlgoritmaSoru1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlgoritmaSoru1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
