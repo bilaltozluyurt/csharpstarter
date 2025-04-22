@@ -1,0 +1,15 @@
+C:\Users\bfurk\kodluyoruz\DateTimeMath\bin\Debug\net8.0\DateTimeMath.exe
+C:\Users\bfurk\kodluyoruz\DateTimeMath\bin\Debug\net8.0\DateTimeMath.deps.json
+C:\Users\bfurk\kodluyoruz\DateTimeMath\bin\Debug\net8.0\DateTimeMath.runtimeconfig.json
+C:\Users\bfurk\kodluyoruz\DateTimeMath\bin\Debug\net8.0\DateTimeMath.dll
+C:\Users\bfurk\kodluyoruz\DateTimeMath\bin\Debug\net8.0\DateTimeMath.pdb
+C:\Users\bfurk\kodluyoruz\DateTimeMath\obj\Debug\net8.0\DateTimeMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bfurk\kodluyoruz\DateTimeMath\obj\Debug\net8.0\DateTimeMath.AssemblyInfoInputs.cache
+C:\Users\bfurk\kodluyoruz\DateTimeMath\obj\Debug\net8.0\DateTimeMath.AssemblyInfo.cs
+C:\Users\bfurk\kodluyoruz\DateTimeMath\obj\Debug\net8.0\DateTimeMath.csproj.CoreCompileInputs.cache
+C:\Users\bfurk\kodluyoruz\DateTimeMath\obj\Debug\net8.0\DateTimeMath.sourcelink.json
+C:\Users\bfurk\kodluyoruz\DateTimeMath\obj\Debug\net8.0\DateTimeMath.dll
+C:\Users\bfurk\kodluyoruz\DateTimeMath\obj\Debug\net8.0\refint\DateTimeMath.dll
+C:\Users\bfurk\kodluyoruz\DateTimeMath\obj\Debug\net8.0\DateTimeMath.pdb
+C:\Users\bfurk\kodluyoruz\DateTimeMath\obj\Debug\net8.0\DateTimeMath.genruntimeconfig.cache
+C:\Users\bfurk\kodluyoruz\DateTimeMath\obj\Debug\net8.0\ref\DateTimeMath.dll
