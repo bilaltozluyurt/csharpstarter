@@ -1,0 +1,15 @@
+C:\Users\bfurk\kodluyoruz\GenericCollectionsList\bin\Debug\net8.0\GenericCollectionsList.exe
+C:\Users\bfurk\kodluyoruz\GenericCollectionsList\bin\Debug\net8.0\GenericCollectionsList.deps.json
+C:\Users\bfurk\kodluyoruz\GenericCollectionsList\bin\Debug\net8.0\GenericCollectionsList.runtimeconfig.json
+C:\Users\bfurk\kodluyoruz\GenericCollectionsList\bin\Debug\net8.0\GenericCollectionsList.dll
+C:\Users\bfurk\kodluyoruz\GenericCollectionsList\bin\Debug\net8.0\GenericCollectionsList.pdb
+C:\Users\bfurk\kodluyoruz\GenericCollectionsList\obj\Debug\net8.0\GenericCollectionsList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bfurk\kodluyoruz\GenericCollectionsList\obj\Debug\net8.0\GenericCollectionsList.AssemblyInfoInputs.cache
+C:\Users\bfurk\kodluyoruz\GenericCollectionsList\obj\Debug\net8.0\GenericCollectionsList.AssemblyInfo.cs
+C:\Users\bfurk\kodluyoruz\GenericCollectionsList\obj\Debug\net8.0\GenericCollectionsList.csproj.CoreCompileInputs.cache
+C:\Users\bfurk\kodluyoruz\GenericCollectionsList\obj\Debug\net8.0\GenericCollectionsList.sourcelink.json
+C:\Users\bfurk\kodluyoruz\GenericCollectionsList\obj\Debug\net8.0\GenericCollectionsList.dll
+C:\Users\bfurk\kodluyoruz\GenericCollectionsList\obj\Debug\net8.0\refint\GenericCollectionsList.dll
+C:\Users\bfurk\kodluyoruz\GenericCollectionsList\obj\Debug\net8.0\GenericCollectionsList.pdb
+C:\Users\bfurk\kodluyoruz\GenericCollectionsList\obj\Debug\net8.0\GenericCollectionsList.genruntimeconfig.cache
+C:\Users\bfurk\kodluyoruz\GenericCollectionsList\obj\Debug\net8.0\ref\GenericCollectionsList.dll
