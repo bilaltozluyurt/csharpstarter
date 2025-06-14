@@ -1,0 +1,15 @@
+C:\Users\bfurk\kodluyoruz\arraylist\obj\Debug\net8.0\arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bfurk\kodluyoruz\arraylist\obj\Debug\net8.0\arraylist.AssemblyInfoInputs.cache
+C:\Users\bfurk\kodluyoruz\arraylist\obj\Debug\net8.0\arraylist.AssemblyInfo.cs
+C:\Users\bfurk\kodluyoruz\arraylist\obj\Debug\net8.0\arraylist.csproj.CoreCompileInputs.cache
+C:\Users\bfurk\kodluyoruz\arraylist\obj\Debug\net8.0\arraylist.sourcelink.json
+C:\Users\bfurk\kodluyoruz\arraylist\bin\Debug\net8.0\arraylist.exe
+C:\Users\bfurk\kodluyoruz\arraylist\bin\Debug\net8.0\arraylist.deps.json
+C:\Users\bfurk\kodluyoruz\arraylist\bin\Debug\net8.0\arraylist.runtimeconfig.json
+C:\Users\bfurk\kodluyoruz\arraylist\bin\Debug\net8.0\arraylist.dll
+C:\Users\bfurk\kodluyoruz\arraylist\bin\Debug\net8.0\arraylist.pdb
+C:\Users\bfurk\kodluyoruz\arraylist\obj\Debug\net8.0\arraylist.dll
+C:\Users\bfurk\kodluyoruz\arraylist\obj\Debug\net8.0\refint\arraylist.dll
+C:\Users\bfurk\kodluyoruz\arraylist\obj\Debug\net8.0\arraylist.pdb
+C:\Users\bfurk\kodluyoruz\arraylist\obj\Debug\net8.0\arraylist.genruntimeconfig.cache
+C:\Users\bfurk\kodluyoruz\arraylist\obj\Debug\net8.0\ref\arraylist.dll
